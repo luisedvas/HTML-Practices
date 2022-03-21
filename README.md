@@ -3,6 +3,9 @@ Practicas en HTML
 <!DOCTYPE html>
 <html>
   <head>
-    <title><strong>Practicas en HTML</strong></title>
+    <title><strong>Prácticas en HTML</strong></title>
+    <body>
+      <h1>Escucho Música</h1>
+    </body>
   </head>
 </html>
