@@ -13,6 +13,8 @@ Practicas en HTML
         <li>Ironhack</li>
       </ul>
       <input type="text">
+      <p>Quiero ser asi dentro de unos meses</p>
+      <img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=large">
 
     </body>
   </head>
