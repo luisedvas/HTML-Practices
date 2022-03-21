@@ -12,6 +12,7 @@ Practicas en HTML
         <li>Codecademy</li>
         <li>Ironhack</li>
       </ul>
+      <input type="text">
 
     </body>
   </head>
