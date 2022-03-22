@@ -17,7 +17,7 @@ Practicas en HTML
       </ul>
       <input type="text"></input>
       <p>Recordatorio, quiero ser asi dentro de unos meses</p>
-      <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng"></a>
+      <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" type="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
 
     </body>
   </head>
