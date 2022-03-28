@@ -8,8 +8,7 @@ Practicas en HTML
   </head>
     <body>
       <h1>Prácticas en HTML</h1>
-      <img src="
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3ip3QBOMK_zN1jHkuIU_Kd1zMtDE2NXYdxI1uMbprQ0n_neFrmrJRMs0lsao8bF3RZs&usqp=CAU" width="500" alt="HTML & CSS">
+      <img src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg">
       <p>Hoy 28 de marzo mi progreso ha aumentado considerablemente en HTML & CSS</p>
       <p>Algunas de las paginas que uso para aprender por ahora son:</p>
       <ul>
