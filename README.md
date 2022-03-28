@@ -1,5 +1,5 @@
 # HTML-Practices
-Practicas en HTML
+Practicas en HTML & CSS
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -20,7 +20,6 @@ Practicas en HTML
       </ul>
      <p>Recordatorio de que quiero ser asi dentro de unos meses:</p>
       <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
-      
       <p>Para lo cual haré una lista de los recursos necesarios para tenerlos a la mano en </p>
       <ol>
         <li><a href="https://github.com/">GitHub</a></li>
@@ -38,4 +37,3 @@ Practicas en HTML
       </div>
     </body>
   </html>
-
