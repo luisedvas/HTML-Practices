@@ -3,28 +3,7 @@ Practicas en HTML
 <!DOCTYPE html>
 <html>
   <head>
-        <style>
-     body {
-       background-color: grey;
-     }
-     h1 {
- color: white;
- text-align: center;
- background-color: black;
- }
-  p {
-    color: white;
-    font-size: 20px;
-    font-family: 'Times New Roman';
-  }
-  ul {
-    background-color: orange;
-    color: white;
-    font-size: 20px;
-    font-family: 'Times New Roman';
-    text-align: center;
-  }
-    </style>
+    <link href="style.css" type="text/css" rel="stylesheet">
     <title><strong>Prácticas en HTML & CSS</strong></title>
   </head>
     <body>
