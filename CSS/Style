@@ -1,3 +1,7 @@
 h1 {
+ backgrond-color: blue;
+}
 
+body {
+  background-color: grey;
 }
