@@ -1,7 +1,16 @@
 h1 {
  backgrond-color: blue;
+ color: white;
 }
 
 body {
   background-color: grey;
+}
+
+p {
+  color: white
+}
+
+ul {
+  color: white;
 }
