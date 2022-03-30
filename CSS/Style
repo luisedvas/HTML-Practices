@@ -4,7 +4,10 @@ body {
 .practicasenhtmlcss {
  color: white;
  text-align: center;
- background-color: black;
+ background-color: blue;
+ border-style: solid;
+ border-color: black;
+ border-width: 5px;
  }
   p {
     color: white;
@@ -22,4 +25,38 @@ body {
     color: white;
     font-size: 20px;
     font-family: 'Times New Roman';
+  }
+
+  .fondo-parrafo {
+    background-color: orange;
+  }
+
+  .imagen-cambios {
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 60%;
+  }
+
+.snippet-text {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+
+    .white-box {
+    background-color: white;
+    padding: 10px;
+  }
+
+    .black-box {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
   }
