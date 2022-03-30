@@ -1,5 +1,3 @@
-# HTML-Practices
-Prácticas en HTML & CSS
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
