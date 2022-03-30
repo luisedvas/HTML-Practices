@@ -37,10 +37,8 @@ Prácticas en HTML & CSS
       <div>
         <img src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
       </div>
-
       <h4 class="snippet-text">Enlaces</h4>
-      
-      <div class="box white-box">
+        <div class="box white-box">
         <h5 class="box black-box">Load More</h5>
         <h5 class="box black-box">All Rights Reserved</h5>
       </div>
