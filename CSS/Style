@@ -4,7 +4,7 @@ body {
 .practicasenhtmlcss {
  color: white;
  text-align: center;
- background-color: blue;
+ background-color: black;
  border-style: solid;
  border-color: black;
  border-width: 5px;
@@ -28,35 +28,64 @@ body {
   }
 
   .fondo-parrafo {
-    background-color: orange;
+    background-color: green;
   }
 
   .imagen-cambios {
     border-color: black;
-    border-width: 10px;
+    border-width: 7px;
     border-style: solid;
-    border-radius: 60%;
+    border-radius: 70%;
   }
 
 .snippet-text {
   margin-bottom: 10px;
   text-align: center;
+  margin: 30px;
 }
 
   .box {
     border-style: solid;
     border-color: black;
-    border-width: 5px;
+    border-width: 3px;
     text-align: center;
   }
 
     .white-box {
     background-color: white;
-    padding: 10px;
+    padding: 20px;
   }
 
     .black-box {
     background-color: black;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  box {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    text-align: center;
+  }
+
+  .blue-box {
+    background-color: blue;
+  }
+
+  .blanco-box {
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+    margin: 40px 40px 20px 40px;
+  }
+
+  img {
+    margin: auto;
   }
