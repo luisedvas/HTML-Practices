@@ -8,24 +8,23 @@
   <body>
     <h1 class="practicasenhtmlcss"><strong>Prácticas en HTML & CSS</strong></h1>
       <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg" width="500" alt="HTML & CSS">
-      <div id="primer-parrafo">
+      <div class="primer-parrafo">
       <p>Hoy 02 de marzo mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
       </div>
-      <div id="segundo-parrafo">
+      <div class="segundo-parrafo">
       <p><strong>Algunas de las paginas que utilizo para aprender a programar por ahora son:</strong></p>
       </div>
       <div>
-      <ul>
-        <li><a href="https://www.freecodecamp.org/" target="_blank"><strong>FreeCodeCamp</strong></a></li>
-        <li><a href="https://www.codecademy.com/learn" target="_blank"><strong>Codecademy</strong></a></li>
-        <li><a href="https://www.ironhack.com/en" target="_blank"><strong>Ironhack</strong></a></li>
-        <li><a href="https://platzi.com/" target="_blank"><strong>Platzi</strong></a></li>
+        <ul>
+          <li><a href="https://www.freecodecamp.org/" target="_blank"><strong>FreeCodeCamp</strong></a></li>
+          <li><a href="https://www.codecademy.com/learn" target="_blank"><strong>Codecademy</strong></a></li>
+          <li><a href="https://www.ironhack.com/en" target="_blank"><strong>Ironhack</strong></a></li>
+          <li><a href="https://platzi.com/" target="_blank"><strong>Platzi</strong></a></li>
+        </ul>
       </div>
       <hr>
-      </ul>
-      </div>
-      <div id="tercer-parrafo">
-    <p><strong><u>Recordatorio</u> de que quiero ser asi dentro de unos meses:</strong></p>
+    <div class="tercer-parrafo">
+      <p><strong><u>Recordatorio</u> de que quiero ser asi dentro de unos meses:</strong></p>
     </div>
       <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
       <div class="fondo-parrafo">
@@ -47,11 +46,10 @@
       </div>
       <hr>
     <div class="box blue-box">
-<h3 class="snippet-text">Música</h3>
-
-<h4 class="box blanco-box">Rock</h4>
-<h4 class="box yellow-box">Jazz</h4>
-</div>
+      <h3 class="snippet-text">Música</h3>
+      <h4 class="box blanco-box">Rock</h4>
+      <h4 class="box yellow-box">Jazz</h4>
+    </div>
         <div class="box white-box">
         <h4 class="snippet-text">Enlaces</h4>
         <h5 class="box black-box">Load More</h5>
