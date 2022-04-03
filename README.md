@@ -3,13 +3,13 @@
   <head>
       <meta charset="UTF-8">
       <title><strong>Prácticas en HTML & CSS</strong></title>
-      <link href=".css" type="text/css" rel="stylesheet">
+      <link href="style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
-      <h1 class="practicasenhtmlcss">Prácticas en HTML & CSS</h1>
+    <h1 class="practicasenhtmlcss"><strong>Prácticas en HTML & CSS</strong></h1>
       <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg" width="500" alt="HTML & CSS">
       <div id="primer-parrafo">
-      <p>Hoy 29 de marzo mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
+      <p>Hoy 02 de marzo mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
       </div>
       <div id="segundo-parrafo">
       <p><strong>Algunas de las paginas que utilizo para aprender a programar por ahora son:</strong></p>
@@ -20,7 +20,7 @@
         <li><a href="https://www.codecademy.com/learn" target="_blank"><strong>Codecademy</strong></a></li>
         <li><a href="https://www.ironhack.com/en" target="_blank"><strong>Ironhack</strong></a></li>
         <li><a href="https://platzi.com/" target="_blank"><strong>Platzi</strong></a></li>
-    
+      </div>
       <hr>
       </ul>
       </div>
