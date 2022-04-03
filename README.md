@@ -20,10 +20,12 @@
         <li><a href="https://www.codecademy.com/learn" target="_blank"><strong>Codecademy</strong></a></li>
         <li><a href="https://www.ironhack.com/en" target="_blank"><strong>Ironhack</strong></a></li>
         <li><a href="https://platzi.com/" target="_blank"><strong>Platzi</strong></a></li>
+    
+      <hr>
       </ul>
       </div>
       <div id="tercer-parrafo">
-    <p><strong>Recordatorio de que quiero ser asi dentro de unos meses:</strong></p>
+    <p><strong><u>Recordatorio</u> de que quiero ser asi dentro de unos meses:</strong></p>
     </div>
       <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
       <div class="fondo-parrafo">
@@ -43,18 +45,18 @@
       <div>
         <img src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
       </div>
+      <hr>
+    <div class="box blue-box">
+<h3 class="snippet-text">Música</h3>
+
+<h4 class="box blanco-box">Rock</h4>
+<h4 class="box yellow-box">Jazz</h4>
+</div>
         <div class="box white-box">
         <h4 class="snippet-text">Enlaces</h4>
         <h5 class="box black-box">Load More</h5>
         <h5 class="box black-box">All Rights Reserved</h5>
       </div>
-      <div class="box blue-box">
-<h3 class="snippet-text">Música</h3>
-
-<h4 class="box blanco-box">Rock</h4>
-<h4 class="box yellow-box">Jazz</h4>
-
-</div>
       <footer>Luis Eduado Díaz</footer>
     </body>
   </html>
