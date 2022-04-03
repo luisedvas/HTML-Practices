@@ -6,29 +6,29 @@
       <link href="style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
-    <h1 class="practicasenhtmlcss"><strong>Prácticas en HTML & CSS</strong></h1>
+    <h1><strong>Prácticas en HTML & CSS</strong></h1>
       <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg" width="500" alt="HTML & CSS">
       <div class="primer-parrafo">
       <p>Hoy 02 de marzo mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
       </div>
       <div class="segundo-parrafo">
-      <p><strong>Algunas de las paginas que utilizo para aprender a programar por ahora son:</strong></p>
+      <p>Algunas de las paginas que utilizo para aprender a programar por ahora son:</p>
       </div>
       <div>
         <ul>
-          <li><a href="https://www.freecodecamp.org/" target="_blank"><strong>FreeCodeCamp</strong></a></li>
-          <li><a href="https://www.codecademy.com/learn" target="_blank"><strong>Codecademy</strong></a></li>
-          <li><a href="https://www.ironhack.com/en" target="_blank"><strong>Ironhack</strong></a></li>
-          <li><a href="https://platzi.com/" target="_blank"><strong>Platzi</strong></a></li>
+          <li><a href="https://www.freecodecamp.org/" target="_blank"class="links"><strong>FreeCodeCamp</strong></a></li>
+          <li><a href="https://www.codecademy.com/learn" target="_blank" class="links"><strong>Codecademy</strong></a></li>
+          <li><a href="https://www.ironhack.com/en" target="_blank" class="links"><strong>Ironhack</strong></a></li>
+          <li><a href="https://platzi.com/" target="_blank" class="links"><strong>Platzi</strong></a></li>
         </ul>
       </div>
       <hr>
     <div class="tercer-parrafo">
-      <p><strong><u>Recordatorio</u> de que quiero ser asi dentro de unos meses:</strong></p>
+      <p><u>Recordatorio</u> de que quiero ser asi dentro de unos meses:</p>
     </div>
       <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
       <div class="fondo-parrafo">
-      <p>Para lo cual haré una lista de los recursos necesarios para tenerlos a la mano en </p>
+      <p>Para lo cual haré una lista de los recursos necesarios para tenerlos a la mano en:</p>
       <ol>
         <li><a href="https://github.com/" target="_blank">GitHub</a></li>
         <li><a href="https://www.notion.so/" target="_blank">Notion</a></li>
