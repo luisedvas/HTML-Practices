@@ -1,43 +1,81 @@
 body {
-  background-color: grey;
+  background-color: white;
 }
-.practicasenhtmlcss {
- color: white;
+
+h1 {
+ color: black;
  text-align: center;
- background-color: black;
+ background-color: rgba(45, 45, 45, 0.1);
+ padding: 10px;
  border-style: solid;
  border-color: black;
- border-width: 5px;
+ border-width: 3px;
+ border-radius: 3px;
  }
+ 
+ .imagen-cambios {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30%;
+  }
+
   p {
-    color: white;
+    color: black;
     font-size: 20px;
     font-family: 'Times New Roman';
+    text-align: justify;
   }
-  ul {
-    background-color: cyan;
+
+  .segundo-parrafo {
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+  }
+
+ul {
+    background-color: transparent;
     color: black;
     font-size: 20px;
     font-family: 'Times New Roman';
   }
 
-  ol {
-    color: white;
-    font-size: 20px;
+   .tercer-parrafo {
+    color: black;
     font-family: 'Times New Roman';
+    font-size: 20px;
+    text-align: justify;
   }
 
   .fondo-parrafo {
-    background-color: green;
+    color: black;
+    background-color: rgba(45, 45, 45, 0.1);
+    font-size: 20px;
+    text-align: justify;
   }
 
-  .imagen-cambios {
-    border-color: black;
-    border-width: 7px;
-    border-style: solid;
-    border-radius: 70%;
+ .blue-box {
+    background-color: blue;
   }
 
+  .blanco-box {
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px 5px;
+    width: 100px;
+    text-align: center;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+    padding: 30px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+  }
 .snippet-text {
   margin-bottom: 10px;
   text-align: center;
@@ -68,24 +106,4 @@ body {
     border-color: black;
     border-width: 3px;
     text-align: center;
-  }
-
-  .blue-box {
-    background-color: blue;
-  }
-
-  .blanco-box {
-    background-color: white;
-    padding: 30px;
-    margin: 10px;
-  }
-
-  .yellow-box {
-    background-color: yellow;
-    padding: 10px;
-    margin: 40px 40px 20px 40px;
-  }
-
-  img {
-    margin: auto;
   }
