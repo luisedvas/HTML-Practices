@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1><strong>Prácticas en HTML & CSS</strong></h1>
-      <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg" width="500" alt="HTML & CSS">
+      <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg"  width="500" alt="HTML & CSS">
       <div class="primer-parrafo">
       <p>Hoy 02 de marzo mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
       </div>
@@ -16,7 +16,7 @@
       </div>
       <div>
         <ul>
-          <li><a href="https://www.freecodecamp.org/" target="_blank"class="links"><strong>FreeCodeCamp</strong></a></li>
+          <li><a href="https://www.freecodecamp.org/" target="_blank" class="links"><strong>FreeCodeCamp</strong></a></li>
           <li><a href="https://www.codecademy.com/learn" target="_blank" class="links"><strong>Codecademy</strong></a></li>
           <li><a href="https://www.ironhack.com/en" target="_blank" class="links"><strong>Ironhack</strong></a></li>
           <li><a href="https://platzi.com/" target="_blank" class="links"><strong>Platzi</strong></a></li>
@@ -45,10 +45,10 @@
         <img src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
       </div>
       <hr>
-    <div class="box blue-box">
+    <div class="caja blue-box">
       <h3 class="snippet-text">Música</h3>
-      <h4 class="box blanco-box">Rock</h4>
-      <h4 class="box yellow-box">Jazz</h4>
+      <h4 class="caja blanco-box">Rock</h4>
+      <h4 class="caja yellow-box">Jazz</h4>
     </div>
         <div class="box white-box">
         <h4 class="snippet-text">Enlaces</h4>
