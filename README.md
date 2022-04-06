@@ -92,6 +92,15 @@
         <label>Email:</label>
         <input type="text" id="email" name="email">
         <input type="submit" id="submit" name="submit">
+        <fieldset>
+<legend>Qué tipo de lenguaje de programción utilizas?</legend>
+<input id="js" type="radio" name="levels" value="js">
+<label for="js">JavaScript</label><br>
+<input id="html" type="radio" name="levels" value="html">
+<label for="html">HTML</label><br>
+<input id="css" type="radio" name="levels" value="css">
+<label for="css">CSS</label><br>
+</fieldset>
       </form>
       <footer>&copy; 2022, Luis Eduado Díaz</footer>
     </body>
