@@ -101,6 +101,8 @@
 <input id="css" type="radio" name="levels" value="css">
 <label for="css">CSS</label><br>
 </fieldset>
+<label for="pickdate">Fecha selecciona</label>
+<input type="date" id="pickdate" name="date">
       </form>
       <footer>&copy; 2022, Luis Eduado Díaz</footer>
     </body>
