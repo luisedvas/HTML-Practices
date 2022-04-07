@@ -107,6 +107,15 @@ ul {
     width: 100px;
     text-align: center;
   }
+  
+  .red-box {
+     background-color: red;
+     padding: 30px;
+     margin: 10px 5px;
+     border-radius: 5px;
+     width: 100px;
+     text-align: center;
+  }
 
   .snippet-text {
     margin-bottom: 10px;
