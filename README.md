@@ -12,7 +12,7 @@
     </header>
       <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg" width="500" alt="HTML & CSS" practices>
       <article class="primer-parrafo">
-      <p>Hoy 06 de abril mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
+      <p>Hoy 07 de abril mi progreso ha aumentado considerablemente en HTML & CSS, teniendo en cuenta que he terminado algunas lecciones en FreeCodeCamp & Codecademy</p>
       </article>
       <article class="segundo-parrafo">
       <p><strong>Algunas de las paginas que utilizo para aprender a programar por ahora son:</strong></p>
