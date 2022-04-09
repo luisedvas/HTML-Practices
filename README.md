@@ -109,8 +109,8 @@ a</p>
         <label>Email:</label>
           <input type="text" id="email" name="email">
           <input type="submit" id="submit" name="submit">
-<label for="pickdate">Selecciona fecha </label>
-<input type="date" id="pickdate" name="date">
+        <label for="pickdate">Selecciona fecha </label>
+          <input type="date" id="pickdate" name="date">
       </form>
         <footer><strong>&copy; 2022, Luis Eduado Díaz</strong></footer>
       </body>
