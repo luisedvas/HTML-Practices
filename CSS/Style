@@ -1,14 +1,15 @@
 body {
-  background-color: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+  background-color: white;
 }
 
-h1 {
- color: black;
+header {
+ color: white;
+ background-color: black; 
  font-family: 'Times New Roman';
  text-align: center;
- background-color: rgba(45, 45, 45, 0.1)
- padding: 30px 20px 20px 30px;
- margin: 10px auto;
+ text-transform: uppercase;
+ padding: 20px 20px 20px 20px;
+ margin: auto;
  border-style: solid;
  border-color: black;
  border-width: 3px;
@@ -17,13 +18,14 @@ h1 {
  position: fixed;
  top: 0px;
  left: 0px;
+ right: 0px;
  }
  
  .imagen-cambios {
-    border-color: black;
-    border-width: 5px;
+    border-color: white;
+    border-width: 4px;
     border-style: solid;
-    border-radius: 30%;
+    border-radius: 10%;
     margin: auto;
   }
 
@@ -71,33 +73,23 @@ ul {
     text-align: justify;
   }
 
- .blue-box {
+ .caja {
     background-color: blue;
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 5px;
-  }
-
-  .caja {
     border-style: solid;
     border-color: black;
     border-width: 3px;
     text-align: center;
-  }
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 
-  .blanco-box {
-    background-color: white;
-    border-radius: 5px;
-    padding: 30px;
-    margin: 10px 5px;
-    width: 100px;
+  .snippet-text {
+    margin-bottom: 10px;
     text-align: center;
-    float: right;
-  }
-
-  .blanco-box:hover {
-    transform: scale(1.2);
-  }
+    margin: 10px;
+    align-self: center;
+}
 
   .yellow-box {
     background-color: yellow;
@@ -106,22 +98,51 @@ ul {
     border-radius: 5px;
     width: 100px;
     text-align: center;
-  }
-  
-  .red-box {
-     background-color: red;
-     padding: 30px;
-     margin: 10px 5px;
-     border-radius: 5px;
-     width: 100px;
-     text-align: center;
+    flex-shrink: 2;
   }
 
-  .snippet-text {
-    margin-bottom: 10px;
+   .yellow-box:hover {
+    transform: scale(1.2);
+  }
+
+   .blanco-box {
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px 5px;
+    width: 100px;
     text-align: center;
-    margin: 10px;
-}
+  }
+
+  .blanco-box:hover {
+    transform: scale(1.2);
+  }
+
+  .red-box {
+    background-color: red;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px 5px;
+    width: 100px;
+    text-align: center;
+  }
+
+   .red-box:hover {
+    transform: scale(1.2);
+  }
+
+  .green-box {
+    background-color: green;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px 5px;
+    width: 100px;
+    text-align: center;
+  }
+
+   .green-box:hover {
+    transform: scale(1.2);
+  }
 
   .box {
     border-style: solid;
@@ -141,9 +162,11 @@ ul {
     color: #fff;
     padding: 10px;
     margin: 10px;
-    transform: skewX(35deg);
-    transform: skewY(-10deg);
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+
+   .black-box:hover {
+    transform: scale(1.2);
   }
 
   box {
@@ -153,4 +176,3 @@ ul {
     text-align: center;
     background: repeating-linear-gradient(45deg, yellow 0px, yellow 40px, black 40px black 80px);
   }
-
