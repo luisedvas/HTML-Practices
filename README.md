@@ -112,6 +112,7 @@ a</p>
         <label for="pickdate">Selecciona fecha </label>
           <input type="date" id="pickdate" name="date">
       </form>
+        <br>
         <footer><strong>&copy; 2022, Luis Eduado Díaz</strong></footer>
       </body>
     </main>
