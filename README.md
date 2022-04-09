@@ -66,9 +66,9 @@ a</p>
           <p>Además de eso haré una lista de los recursos necesarios para tenerlos a la mano en las siguientes aplicaciones y repositorios:</p>
     <nav>
       <ol>
-        <li><a href="#github">GitHub</a></li>
-        <li><a href="#notion">Notion</a></li>
-        <li><a href="#obsidian">Obsidian</a></li>
+        <li><a href="#github" class="links"><strong>GitHub</strong></a></li>
+        <li><a href="#notion" class="links"><strong>Notion</strong></a></li>
+        <li><a href="#obsidian" class="links"><strong>Obsidian</strong></a></li>
       </ol>
     </nav>
     </article>
