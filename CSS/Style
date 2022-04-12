@@ -38,10 +38,11 @@ header {
   .links {
     color: black;
     opacity: 0.9;
+    font-size: 20px;
   }
 
   a:hover {
-    color: blue;
+    color: gray;
   }
 
 ul {
@@ -58,9 +59,14 @@ ul {
     text-align: justify;
   }
 
+p {
+  font-size: 20px;
+  font-family: 'Times New Roman'
+  text-align: justify;
+}
+
   .fondo-parrafo {
     color: black;
-    background-color: rgba(45, 45, 45, 0.1);
     font-size: 20px;
     text-align: justify;
   }
@@ -188,4 +194,3 @@ ul {
     text-align: center;
     background: repeating-linear-gradient(45deg, yellow 0px, yellow 40px, black 40px black 80px);
   }
-
