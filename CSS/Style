@@ -73,15 +73,22 @@ ul {
     text-align: justify;
   }
 
+.lenguajes {
+  background-color: black;
+}
+
  .caja {
     background-color: blue;
     border-style: solid;
     border-color: black;
     border-width: 3px;
-    text-align: center;
+    width: 800px;
+    height: 500px;
     display: flex;
+    text-align: center;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
 }
 
   .snippet-text {
@@ -97,6 +104,7 @@ ul {
     margin: 10px 5px;
     border-radius: 5px;
     width: 100px;
+    height: 100px;
     text-align: center;
     flex-shrink: 2;
   }
@@ -111,6 +119,7 @@ ul {
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
+    height: 100px;
     text-align: center;
   }
 
@@ -124,6 +133,7 @@ ul {
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
+    height: 100px;
     text-align: center;
   }
 
@@ -137,6 +147,7 @@ ul {
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
+    height: 100px;
     text-align: center;
   }
 
@@ -176,3 +187,4 @@ ul {
     text-align: center;
     background: repeating-linear-gradient(45deg, yellow 0px, yellow 40px, black 40px black 80px);
   }
+
