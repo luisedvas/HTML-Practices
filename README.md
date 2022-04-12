@@ -72,13 +72,13 @@ a</p>
       </ol>
     </nav>
       <section class="repositorios">
-        <img id="github" src="https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/qu%C3%A9-es-github-1.png" width="600">
+        <img id="github" class="g" src="https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/qu%C3%A9-es-github-1.png" width="600">
       </section>
       <section>
-        <img id="notion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAa7Rm2qg6nqv-I18u0Kyk5Hu4yb9BWs-xixvf-X3sk-IFC1W4I9DIQJVbDpmM7CI4qLM&usqp=CAU" width="600">
+        <img id="notion" class="n" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAa7Rm2qg6nqv-I18u0Kyk5Hu4yb9BWs-xixvf-X3sk-IFC1W4I9DIQJVbDpmM7CI4qLM&usqp=CAU" width="600">
       </section>
       <section>
-        <img id="obsidian" src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
+        <img id="obsidian" class="o" src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
       </section>
       <hr>
     <div class="lenguajes">
