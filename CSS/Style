@@ -73,9 +73,6 @@ ul {
     text-align: justify;
   }
 
-.lenguajes {
-  background-color: black;
-}
 
  .caja {
     background-color: blue;
@@ -83,10 +80,10 @@ ul {
     border-color: black;
     border-width: 3px;
     width: 800px;
-    height: 500px;
+    height: 400px;
     display: flex;
     text-align: center;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -103,6 +100,9 @@ ul {
     padding: 30px;
     margin: 10px 5px;
     border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
     width: 100px;
     height: 100px;
     text-align: center;
@@ -116,6 +116,9 @@ ul {
    .blanco-box {
     background-color: white;
     border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
@@ -130,6 +133,9 @@ ul {
   .red-box {
     background-color: red;
     border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
@@ -144,6 +150,9 @@ ul {
   .green-box {
     background-color: green;
     border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
     padding: 30px;
     margin: 10px 5px;
     width: 100px;
