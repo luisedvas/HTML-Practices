@@ -82,13 +82,15 @@ a</p>
         <img id="obsidian" src="https://windows-cdn.softpedia.com/screenshots/Obsidian-app_1.png" width="600">
       </section>
       <hr>
-    <article class="caja">
-      <h3 class="snippet-text"><strong>Languages</strong></h3>
-      <h4 class="caja yellow-box"><strong>HTML</strong></h4>
-      <h4 class="caja blanco-box"><strong>CSS</strong></h4>
-      <h4 class="caja red-box"><strong>JavaScript</strong></h4>
-      <h4 class="caja green-box"><strong>Python</strong></h4>
-    </article>
+    <div class="lenguajes">
+      <div class="caja">
+        <h3 class="snippet-text"><strong>Languages</strong></h3>
+        <h4 class="caja yellow-box"><strong>HTML</strong></h4>
+        <h4 class="caja blanco-box"><strong>CSS</strong></h4>
+        <h4 class="caja red-box"><strong>JavaScript</strong></h4>
+        <h4 class="caja green-box"><strong>Python</strong></h4>
+      </div>
+    </div>
     <article class="box white-box">
       <h4 class="snippet-text">Links</h4>
       <h5 class="box black-box">Load More</h5>
