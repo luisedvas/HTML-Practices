@@ -3,7 +3,7 @@
   <head>
       <meta charset="UTF-8">
       <title><strong>Practices in HTML & CSS</strong></title>
-      <link href="style.css" type="text/css" rel="stylesheet">
+      <link rel="stylesheet" href="style.css" type="text/css" >
   </head>
   <main>
     <body>
