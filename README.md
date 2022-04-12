@@ -71,7 +71,7 @@ a</p>
         <li><a href="#obsidian" class="links"><strong>Obsidian</strong></a></li>
       </ol>
     </nav>
-      <section>
+      <section class="repositorios">
         <img id="github" src="https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/qu%C3%A9-es-github-1.png" width="600">
       </section>
       <section>
