@@ -10,20 +10,20 @@
       <header>
         <h1><strong>Practices in HTML & CSS</strong></h1>
       </header>
-        <img class="imagen-cambios" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg"  width="500" alt="HTML & CSS">
+        <img class="imagen-principal" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg"  width="500" height="500" alt="HTML & CSS">
       <section class="primer-parrafo">
         <article>
-          <p>Hoy 08 de abril mi progreso ha aumentado considerablemente en <strong>HTML & CSS</strong>, teniendo en cuenta que he terminado algunas lecciones en <strong>Freecodecamp & Codecademy</strong></p>
+          <p>Hoy 12 de abril mi progreso ha aumentado considerablemente en <strong>HTML & CSS</strong>, teniendo en cuenta que he terminado algunas lecciones en <strong>Freecodecamp & Codecademy</strong></p>
         </article>
       </section>
       <section class="segundo-parrafo">
         <article>
-          <p>Algunas de las páginas que utilizo para aprender a programar por ahora son:</p>
+          <p>Algunas de las páginas que utilizo actualmente para aprender a programar por ahora son:</p>
         </article>
       </section>
       <nav>
         <ul>
-          <li><a href="#freecodecamp" class="links"><strong>FreeCodeCamp</strong></a></li>
+          <li><a href="#freecodecamp" class="links"><strong>Freecodecamp</strong></a></li>
           <li><a href="#codecademy" class="links"><strong>Codecademy</strong></a></li>
           <li><a href="#ironhack" class="links"><strong>Ironhack</strong></a></li>
           <li><a href="#platzi" class="links"><strong>Platzi</strong></a></li>
@@ -33,7 +33,7 @@
       <section id="freecodecamp">
         <h2><strong>Freecodecamp</strong></h2>
           <article>
-            <p><a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp</a> es un sitio web gratuito que ofrece prácticas  en distintos lenguajes de programación, como <strong>HTML, CSS & JavaScript</strong>.</p>
+            <p><a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp</a> es un sitio web gratuito que ofrece prácticas en distintos lenguajes de programación, como <strong>HTML, CSS & JavaScript y demás</strong>.</p>
           </article>
       </section>
       <section id="codecademy">
@@ -45,7 +45,7 @@
       <section id="ironhack">
         <h2><strong>Ironhack</strong></h2>
           <article>
-            <p><a href="https://www.ironhack.com/en" target="_black">Ironhack</a> es una escuela global enfocada en la metodologia Bootcamp de una manera muy intensiva y la cual ofrece cursos en <strong>Web Development</strong></p>
+            <p><a href="https://www.ironhack.com/en" target="_black">Ironhack</a> es una escuela global enfocada en la metodologia bootcamp de una manera muy intensiva y la cual ofrece cursos en <strong>Web Development, UX/UI degign and Data Analitycs</strong></p>
           </article>
       </section>
       <section id="platzi">
@@ -57,13 +57,12 @@ a</p>
       </section>
       <hr>
     <section class="tercer-parrafo">
-      <figure>
-        <figcaption><u>Recordatorio</u> de que quiero ser asi dentro de unos meses a patir de ahora, por lo cual, practicaré todos los días lo aprendido:</figcaption>
-      </figure>
+<p><u>Recordatorio</u> de que quiero ser asi dentro de unos meses a patir de ahora, por lo cual, practicaré todos los días lo aprendido:</p>
     </section>
       <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
         <article class="fondo-parrafo">
           <p>Además de eso haré una lista de los recursos necesarios para tenerlos a la mano en las siguientes aplicaciones y repositorios:</p>
+        </article>
     <nav>
       <ol>
         <li><a href="#github" class="links"><strong>GitHub</strong></a></li>
@@ -71,7 +70,6 @@ a</p>
         <li><a href="#obsidian" class="links"><strong>Obsidian</strong></a></li>
       </ol>
     </nav>
-    </article>
       <section>
         <img id="github" src="https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/qu%C3%A9-es-github-1.png" width="600">
       </section>
