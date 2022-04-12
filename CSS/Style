@@ -17,11 +17,7 @@ header {
  right: 0px;
  }
  
- .imagen-cambios {
-    border-color: white;
-    border-width: 4px;
-    border-style: solid;
-    border-radius: 10%;
+ .imagen-principal {
     margin: auto;
   }
 
