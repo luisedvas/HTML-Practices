@@ -85,10 +85,10 @@ a</p>
     <div class="lenguajes">
       <div class="caja">
         <h3 class="snippet-text"><strong>Languages</strong></h3>
-        <h4 class="caja yellow-box"><strong>HTML</strong></h4>
-        <h4 class="caja blanco-box"><strong>CSS</strong></h4>
-        <h4 class="caja red-box"><strong>JavaScript</strong></h4>
-        <h4 class="caja green-box"><strong>Python</strong></h4>
+        <h4 class="yellow-box"><strong>HTML</strong></h4>
+        <h4 class="blanco-box"><strong>CSS</strong></h4>
+        <h4 class="red-box"><strong>JavaScript</strong></h4>
+        <h4 class="green-box"><strong>Python</strong></h4>
       </div>
     </div>
     <article class="box white-box">
@@ -97,7 +97,6 @@ a</p>
       <h5 class="box black-box">All Rights Reserved</h5>
     </article>
     <br>
-        <div class="lenguajes">
           <fieldset>
             <legend>Qué tipo de lenguaje de programción utilizas?</legend>
               <input id="js" type="radio" name="levels" value="js">
@@ -107,7 +106,6 @@ a</p>
               <input id="python" type="radio" name="levels" value="python">
               <label for="python">Python</label><br>
           </fieldset>
-        </div>
       <form>
         <p><strong>Write your email below to receive more updates about me</strong></p>
         <label>Email:</label>
