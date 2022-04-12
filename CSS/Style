@@ -21,7 +21,7 @@ header {
     margin: auto;
   }
 
-  p {
+  .primer-parrafo {
     color: black;
     font-size: 20px;
     font-family: 'Times New Roman';
