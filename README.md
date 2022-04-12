@@ -97,7 +97,7 @@ a</p>
     </article>
     <br>
           <fieldset>
-            <legend>Qué tipo de lenguaje de programción utilizas?</legend>
+            <legend><strong>¿Qué tipo de lenguaje de programación utilizas?</strong></legend>
               <input id="js" type="radio" name="levels" value="js">
               <label for="js">JavaScript</label><br>
               <input id="java" type="radio" name="levels" value="java">
