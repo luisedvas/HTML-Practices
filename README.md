@@ -10,7 +10,7 @@
       <header>
         <h1><strong>Practices in HTML & CSS</strong></h1>
       </header>
-        <img class="imagen-principal" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg"  width="500" height="500" alt="HTML & CSS">
+        <img class="imagen-principal" src="https://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg"  width="800" height="300" alt="HTML & CSS">
       <section class="primer-parrafo">
         <article>
           <p>Hoy 12 de abril mi progreso ha aumentado considerablemente en <strong>HTML & CSS</strong>, teniendo en cuenta que he terminado algunas lecciones en <strong>Freecodecamp & Codecademy</strong></p>
