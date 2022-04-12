@@ -9,10 +9,6 @@ header {
  text-align: center;
  text-transform: uppercase;
  padding: 20px 20px 20px 20px;
- margin: auto;
- border-style: solid;
- border-color: black;
- border-width: 3px;
  border-radius: 3px;
  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
  position: fixed;
