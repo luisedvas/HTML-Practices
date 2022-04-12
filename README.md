@@ -59,7 +59,7 @@ a</p>
     <section class="tercer-parrafo">
 <p><u>Recordatorio</u> de que quiero ser asi dentro de unos meses a patir de ahora:</p>
     </section>
-      <a href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
+      <a class="nat" href="https://twitter.com/nateliason/status/1505207670789353472?s=20&t=wt18qsNwQRdKL4D2NXe9Ng" target="_blank"><img src="https://pbs.twimg.com/media/FOOSUsJXwAkvjGS?format=jpg&name=medium"></a>
       <p>Por lo cual, practicaré todos los días lo aprendido</p>
         <article class="fondo-parrafo">
           <p>Además de eso haré una lista de los recursos necesarios para tenerlos a la mano en las siguientes aplicaciones y repositorios:</p>
@@ -83,11 +83,11 @@ a</p>
       <hr>
     <div class="lenguajes">
       <div class="caja">
-        <h3 class="snippet-text"><strong>Languages</strong></h3>
-        <h4 class="yellow-box"><strong>HTML</strong></h4>
-        <h4 class="blanco-box"><strong>CSS</strong></h4>
-        <h4 class="red-box"><strong>JavaScript</strong></h4>
-        <h4 class="green-box"><strong>Python</strong></h4>
+        <h3 class="caja snippet-text"><strong>Languages</strong></h3>
+        <h4 class="caja yellow-box"><strong>HTML</strong></h4>
+        <h4 class="caja blanco-box"><strong>CSS</strong></h4>
+        <h4 class="caja red-box"><strong>JavaScript</strong></h4>
+        <h4 class="caja green-box"><strong>Python</strong></h4>
       </div>
     </div>
     <article class="box white-box">
@@ -97,7 +97,7 @@ a</p>
     </article>
     <br>
           <fieldset>
-            <legend><strong>¿Qué tipo de lenguaje de programación utilizas?</strong></legend>
+            <legend><strong>Qué tipo de lenguaje de programación utilizas?</strong></legend>
               <input id="js" type="radio" name="levels" value="js">
               <label for="js">JavaScript</label><br>
               <input id="java" type="radio" name="levels" value="java">
