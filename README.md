@@ -95,6 +95,7 @@ a</p>
       <h5 class="box black-box">All Rights Reserved</h5>
     </article>
     <br>
+        <div class="lenguajes">
           <fieldset>
             <legend>Qué tipo de lenguaje de programción utilizas?</legend>
               <input id="js" type="radio" name="levels" value="js">
@@ -104,6 +105,7 @@ a</p>
               <input id="python" type="radio" name="levels" value="python">
               <label for="python">Python</label><br>
           </fieldset>
+        </div>
       <form>
         <p><strong>Write your email below to receive more updates about me</strong></p>
         <label>Email:</label>
